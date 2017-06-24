@@ -2,6 +2,7 @@
     "name": "hxzzy/hxzzy-test4",
     "description": "hello",
     "type": "library",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "hxzzy",
