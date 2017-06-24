@@ -1,0 +1,21 @@
+{
+    "name": "stromaler/123sms.biz",
+    "description": "Simple class for work with http://123sms.biz (http://123sms.sk) API",
+    "minimum-stability": "stable",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Michal Stromajer",
+            "email": "stromajer.michal@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">= 5.3",
+	"ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Stromaler\\Biz123Sms\\": "src/"
+        }
+    }
+}

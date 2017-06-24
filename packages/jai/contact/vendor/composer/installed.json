@@ -1,0 +1,41 @@
+[
+    {
+        "name": "stromaler/123sms.biz",
+        "version": "v1.2",
+        "version_normalized": "1.2.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/stromajer/123sms.biz.git",
+            "reference": "9eeb53dfaa45a8f6d8db32c70fb0054713ee0869"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/stromajer/123sms.biz/9eeb53dfaa45a8f6d8db32c70fb0054713ee0869.zip",
+            "reference": "9eeb53dfaa45a8f6d8db32c70fb0054713ee0869",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "php": ">= 5.3"
+        },
+        "time": "2017-02-04T19:21:29+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Stromaler\\Biz123Sms\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "authors": [
+            {
+                "name": "Michal Stromajer",
+                "email": "stromajer.michal@gmail.com"
+            }
+        ],
+        "description": "Simple class for work with http://123sms.biz (http://123sms.sk) API"
+    }
+]

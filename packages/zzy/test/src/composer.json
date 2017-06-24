@@ -1,0 +1,12 @@
+{
+    "name": "zzy/test",
+    "description": "This is my first package",
+    "authors": [
+        {
+            "name": "799857634",
+            "email": "799857634@qq.com"
+        }
+    ],
+    "type": "composer-plugin",
+    "require": {}
+}
