@@ -1,0 +1,17 @@
+{
+    "name": "hxzzy/test4",
+    "description": "hello",
+    "type": "library",
+    "authors": [
+        {
+            "name": "hxzzy",
+            "email": "799857634@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hxzzy\\Test4": "src/"
+        }
+    },
+    "require": {}
+}
