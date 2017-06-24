@@ -16,7 +16,9 @@
         }
     },
     "require": {
-        "hxzzy/test4": "1.*"
+        "hxzzy/test4": "1.*",
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package": "1.*"
     },
     "require-dev": {
         "mockery/mockery": "dev-master",
