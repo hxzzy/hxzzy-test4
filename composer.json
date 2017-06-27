@@ -1,7 +1,6 @@
 {
     "name": "hxzzy/test4",
     "description": "hello, I am zzy,I come from sanming!",
-    "type": "library",
     "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
@@ -15,12 +14,5 @@
             "Hxzzy\\Test4\\": "src/"
         }
     },
-    "require": {
-        "php": "^5.3.3 || ^7.0"
-        
-    },
-    
-    "providers": [
-                "Hxzzy\\Test4\\Test2ServiceProvider"
-            ]
+    "require": {}
 }
